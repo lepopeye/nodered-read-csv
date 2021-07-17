@@ -1,5 +1,5 @@
-# read a csv file
-Node permettant de lire un fichier CSV et d'en extraire les valeurs pour les réutiliser dynamiquement.
+# Read a csv file
+Flow permettant de lire un fichier CSV et d'en extraire les valeurs pour les réutiliser dynamiquement.
 
 ## Pré-requis : 
   1. Node-Red
