@@ -1,4 +1,4 @@
-# nodered-read-csv
+# read a csv file
 Node permettant de lire un fichier CSV et d'en extraire les valeurs pour les réutiliser dynamiquement.
 
 ## Pré-requis : 
