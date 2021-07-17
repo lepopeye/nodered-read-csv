@@ -13,7 +13,7 @@ led1;red
 led2;green
 led3;blue
 ```
- 3. Importer le fichier json en exemple
+ 3. Importer le fichier json (chemin à adapter à selon son emplacement)
  
 ![alt text](https://github.com/lepopeye/nodered-read-csv/blob/main/example/nodered-tableau.png?raw=true)
  4. Vérifier dans le degug
