@@ -13,9 +13,9 @@ led1;red
 led2;green
 led3;blue
 ```
- 3. Importer le fichier json (chemin à adapter à selon son emplacement)
+ 3. Importer le fichier json  et modifier le chemin vers le CSV selon votre configuration
  
 ![alt text](https://github.com/lepopeye/nodered-read-csv/blob/main/example/nodered-tableau.png?raw=true)
- 4. Vérifier dans le degug
+ 4. Vérifier dans le degug que tout est ok
  
 ![alt text](https://github.com/lepopeye/nodered-read-csv/blob/main/example/nodered-tableau-debug.png?raw=true)
