@@ -6,7 +6,7 @@ Node permettant de lire un fichier CSV et d'en extraire les valeurs pour les ré
   2. un fichier CSV (voir exemple)
 
 ## Utilisation :
- 1. Placer le fichier CSV à un emplacement accessible par node-red
+ 1. Placer le fichier CSV à un emplacement accessible par Node-RED
 ```
 name;color
 led1;red
